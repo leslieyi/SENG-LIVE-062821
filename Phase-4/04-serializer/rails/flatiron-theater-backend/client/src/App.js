@@ -33,11 +33,6 @@ function App() {
   }
 
   return (
-    // <div className="App">
-    //   {errors?errors.map(e => <div>{e}</div>):null}
-    //  <ProductionContainer productions={productions}/>
-    //  <ProductionForm handlePost={handlePost} />
-    // </div>
     <>
     <Navigation/>
     <Switch>
